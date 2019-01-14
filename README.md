@@ -1,5 +1,5 @@
 # PAGE 2019 PB-QSP Workshop
-## PK-Sim® &amp; MoBi® (OSP Suite) workshop on PBPK-basd QSP
+## PK-Sim® &amp; MoBi® (OSP Suite) workshop on PBPK-based QSP
 
 esqLABS is running a one-day hands-on **PK-Sim® & MoBi®** workshop on **integrating PBPK with QSP for in-silico first-in-man PD predictions** on **Saturday 15th of June** at the **Freys Hotel** in **Stockholm, Sweden** as a satellite meeting to PAGE 2019. The workshop covers concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 
