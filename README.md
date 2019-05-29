@@ -24,7 +24,7 @@ Registration includes coffee- and lunch breaks.
 
 As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
 
-| Time (Saturday June 15) | Topic |
+| Time (Saturday October 19) | Topic |
 | ------------- | ------------- |
 | 9:00 | Welcome and getting everyone started |
 | 9:15 | **Lecture**: Introduction to MoBi® |
